@@ -6,6 +6,9 @@
     width="100%"
     alt="Muhammad Dawood Animated GitHub Banner">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Muhammad+Dawood;AI+%26+Cybersecurity+Engineer;Software+Developer;Electrical+%26+Electronics+Engineer;Building+Intelligent+Systems;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 <h2 align="center">📊 GitHub Metrics</h2>
 
 <p align="center">
