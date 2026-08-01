@@ -14,8 +14,6 @@
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
----
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <h3 align="center">🤖 AI • Programming</h3>
@@ -40,11 +38,22 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>;
----
+</p>
+## 📊 GitHub Statistics
 
-# 📊 GitHub Statistics
+<p align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-dawood827&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-dawood827&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-dawood827&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-dawood827&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -58,11 +67,27 @@
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-dawood827&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+## 📈 Contribution Graph
 
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-dawood827&theme=tokyo-night&hide_border=true"/>
+
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=m-dawood827&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/m-dawood827/m-dawood827/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=m-dawood827&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
