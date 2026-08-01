@@ -14,6 +14,33 @@
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<h3 align="center">🤖 AI • Programming</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,javascript,nodejs" />
+</p>
+
+<h3 align="center">🛡️ Cybersecurity</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github" />
+</p>
+
+<h3 align="center">⚙️ Software Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,react,html,css,mongodb,mysql,sqlite" />
+</p>
+
+<h3 align="center">🔌 Embedded & Electronics</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>;
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
