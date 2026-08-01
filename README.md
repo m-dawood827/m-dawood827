@@ -72,6 +72,63 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/m-dawood827/m-dawood827/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+
+<a href="mailto:mdawoodnaeem12@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mdawood827/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/m-dawood827" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+</a>
+
+<a href="https://orcid.org/0009-0006-8968-5174" target="_blank">
+<img src="https://cdn.simpleicons.org/orcid/A6CE39" height="50" alt="ORCID"/>
+</a>
+
+<a href="https://x.com/m_dawood827" target="_blank">
+<img src="https://cdn.simpleicons.org/x/FFFFFF" height="50" alt="X"/>
+</a>
+
+<a href="https://t.me/M_dawood827" target="_blank">
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="50" alt="Telegram"/>
+</a>
+
+<a href="https://facebook.com/mDawood827/" target="_blank">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" alt="Facebook"/>
+</a>
+
+<a href="https://www.threads.com/@m_dawood827" target="_blank">
+<img src="https://cdn.simpleicons.org/threads/FFFFFF" height="50" alt="Threads"/>
+</a>
+
+<a href="https://www.snapchat.com/add/m_dawood827?share_id=vjePClrR6NY&locale=en-US" target="_blank">
+<img src="https://cdn.simpleicons.org/snapchat/FFFC00" height="50" alt="Snapchat"/>
+</a>
+
+<a href="https://wa.me/923324557446" target="_blank">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="50" alt="WhatsApp"/>
+</a>
+
+</p>
+<p align="center">
+
+<a href="https://discord.com/users/1517927182997913771" target="_blank">
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="50" alt="Discord"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>Discord Username:</b> m_dawood827
+</p>
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=m-dawood827&label=Profile%20Views&color=0e75b6&style=flat"/>
