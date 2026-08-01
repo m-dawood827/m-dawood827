@@ -41,6 +41,25 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>;
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-dawood827&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=m-dawood827&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-dawood827&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
