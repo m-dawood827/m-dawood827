@@ -104,6 +104,10 @@
 <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" alt="Facebook"/>
 </a>
 
+<a href="https://www.instagram.com/m_dawood827/" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="50" alt="Instagram"/>
+</a>
+
 <a href="https://www.threads.com/@m_dawood827" target="_blank">
 <img src="https://cdn.simpleicons.org/threads/FFFFFF" height="50" alt="Threads"/>
 </a>
