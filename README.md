@@ -73,7 +73,6 @@
   <img src="https://raw.githubusercontent.com/m-dawood827/m-dawood827/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 <h2 align="center">📫 Connect With Me</h2>
-<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
 
