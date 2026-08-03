@@ -78,27 +78,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<!-- 3-Card Professional Dashboard Layout -->
-<p align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=m-dawood827&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" alt="GitHub Stats">
-      </td>
-      <td align="center" width="33%">
-        <img src="https://streak-stats.demolab.com?user=m-dawood827&theme=tokyonight&hide_border=true&background=0d1117&border=00f7ff&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak">
-      </td>
-      <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-dawood827&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages">
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
